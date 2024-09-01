@@ -1,7 +1,7 @@
-# House Price Prediction Project
+# House Price Prediction Project Exploring scikit learn
 
 ## Overview
-This project aims to predict house prices based on a variety of factors using a machine learning approach. The dataset used includes attributes such as crime rate, zoning, number of rooms, and other influential factors. The goal is to develop a model that can accurately predict the median value of homes in different areas.
+This project aims to predict house prices demonstrating a basic flow of ML projects and a little exposure to scikit learn for supervised learning. The goal is to develop a model that can accurately predict the median value of homes in different areas.
 
 ## Steps Followed
 
