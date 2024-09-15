@@ -29,7 +29,7 @@ This project aims to predict house prices demonstrating a basic flow of ML proje
    - The dataset is split into training and testing sets to allow for model training and subsequent evaluation on unseen data.
 
 7. **Pipeline Creation**
-   - A machine learning pipeline is created, combining data preprocessing steps with the model training process.
+   - A machine learning pipeline is created that combines data preprocessing steps with the model training process.
 
 8. **Cross-Validation**
    - Cross-validation is performed to evaluate the model’s performance across different subsets of the data, providing a more robust assessment.
