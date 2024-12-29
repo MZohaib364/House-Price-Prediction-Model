@@ -1,7 +1,7 @@
 # House Price Prediction Project Exploring scikit learn
 
 ## Overview
-This project aims to predict house prices demonstrating a basic flow of ML projects and a little exposure to scikit learn for supervised learning. The goal is to develop a model that can accurately predict the median value of homes in different areas.
+This project aims to predict house prices demonstrating a basic flow of ML projects and a little exposure to scikit learn for supervised learning. The goal is to develop a model that can accurately predict the median value of homes on basis of different features.
 
 ## Steps Followed
 
