@@ -50,7 +50,7 @@ This project aims to predict house prices demonstrating a basic flow of ML proje
 To run the project:
 1. Clone the repository.
 2. Install the necessary dependencies.
-3. Run the Jupyter notebook to follow the steps and build the model.
+3. Run the Jupyter notebook to follow the steps.
 
 ## Results
 The model's performance was evaluated based on prediction accuracy, and further steps can be taken to improve the model by fine-tuning or using more advanced techniques.
